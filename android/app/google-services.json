@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704285210869",
+    "project_id": "isaa-test-manual",
+    "storage_bucket": "isaa-test-manual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704285210869:android:bfbcc029de0946f02cedbc",
+        "android_client_info": {
+          "package_name": "com.issa_test_manual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704285210869-kduigk9q1a2c66hk5cunlg4r0nd4m92p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.issa_test_manual",
+            "certificate_hash": "37f90a774a1720ca4e65a3c6dfdc0107a0413e98"
+          }
+        },
+        {
+          "client_id": "704285210869-hiot1jvrsnf4555tepqjojl8v0hg72oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOQtfKBzoq564tIyDODE52-u-y3j8r0qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704285210869-hiot1jvrsnf4555tepqjojl8v0hg72oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
